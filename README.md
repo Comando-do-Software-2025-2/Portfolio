@@ -34,17 +34,18 @@ Os responsáveis pelo desenvolvimento do projeto são:
 Esse arquvio deve estra preseten no root do seu projeto
 # 🐳 Guia Básico de Docker com .env
 
-Este guia traz os comandos essenciais do Docker para **criar, rodar e gerenciar uma aplicação**.
+Este guia traz os comandos essenciais do Docker para **criar, rodar e gerenciar a aplicação**.
 ## 📌 1. Verificar se o Docker está instalado
 ```bash
 docker --version
 docker info
 ```
-## 📌 2. Criar e rodar um container
+
+---
+
+## 📌 2. Rodar a aplicação
 ```bash
-docker run -it <nome-da-imagem> /bin/bash
-# Exemplo:
-docker run -it ubuntu:20.04 /bin/bash
+docker compose up -d
 ```
 
 ---
@@ -57,18 +58,11 @@ docker ps -a     # Todos os containers (inclui os parados)
 
 ---
 
-## 📌 4. Parar, iniciar e remover containers
+## 📌 4. Parar os containers
 ```bash
-docker stop <id-ou-nome-do-container>
-docker start <id-ou-nome-do-container>
-docker rm <id-ou-nome-do-container>
+docker compose down
 ```
-## 📌 9. Rodar um container mapeando porta
-```bash
-docker run -d -p 8080:80 <nome-da-imagem>
-# Exemplo:
-docker run -d -p 8080:80 minha-app:1.0
-```
+Adicione a flag -v para remover os volumes, se necessário.
 
 ## 🎨 Protótipos e Telas
 ![Protótipo Home](Img/Home.png)  
