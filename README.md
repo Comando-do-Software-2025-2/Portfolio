@@ -13,7 +13,7 @@ Os responsáveis pelo desenvolvimento do projeto são:
 - **Arthur Henrique Teixeira e Silva Bacelete**
 - [Portfolio](https://link-que-sera-aberto.com)
 - **Gabriel Nogueira Vieira Resende**
-- [Portfolio](https://link-que-sera-aberto.com)
+- [Portfolio](https://portfolio-blond-kappa-81.vercel.app)
 - **Kaio Souza Oliveira Mayer**
 - [Portfolio](https://my-portfolio-dev-xi.vercel.app/about)
 - **Mateus Rodrigues Costa**
@@ -25,6 +25,12 @@ Os responsáveis pelo desenvolvimento do projeto são:
 - Figma
 - GitHub e Git
 - Docker
+## Como Rodar o projeto
+  Você precisará ter um e-mail Google ativo e com a autenticação em duas etapas ativada.
+  ```.env 
+  EMAIL - seu email compelto 
+  APP-PASSWARD - Sua cheve de app do google
+```
 ## 🎨 Protótipos e Telas
 ![Protótipo Home](Img/Home.png)  
 ![Protótipo Experience](Img/Experience.png)  
