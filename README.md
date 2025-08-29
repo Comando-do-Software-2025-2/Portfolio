@@ -40,26 +40,7 @@ Este guia traz os comandos essenciais do Docker para **criar, rodar e gerenciar 
 docker --version
 docker info
 ```
-
----
-
-## 📌 2. Baixar uma imagem
-```bash
-docker pull <nome-da-imagem>
-# Exemplo:
-docker pull ubuntu:20.04
-```
-
----
-
-## 📌 3. Listar imagens disponíveis localmente
-```bash
-docker images
-```
-
----
-
-## 📌 4. Criar e rodar um container
+## 📌 2. Criar e rodar um container
 ```bash
 docker run -it <nome-da-imagem> /bin/bash
 # Exemplo:
@@ -68,7 +49,7 @@ docker run -it ubuntu:20.04 /bin/bash
 
 ---
 
-## 📌 5. Listar containers
+## 📌 3. Listar containers
 ```bash
 docker ps        # Containers em execução
 docker ps -a     # Todos os containers (inclui os parados)
@@ -76,31 +57,12 @@ docker ps -a     # Todos os containers (inclui os parados)
 
 ---
 
-## 📌 6. Parar, iniciar e remover containers
+## 📌 4. Parar, iniciar e remover containers
 ```bash
 docker stop <id-ou-nome-do-container>
 docker start <id-ou-nome-do-container>
 docker rm <id-ou-nome-do-container>
 ```
-
----
-
-## 📌 7. Remover imagens
-```bash
-docker rmi <id-ou-nome-da-imagem>
-```
-
----
-
-## 📌 8. Construir imagem a partir de um Dockerfile
-```bash
-docker build -t <nome-da-imagem>:<tag> .
-# Exemplo:
-docker build -t minha-app:1.0 .
-```
-
----
-
 ## 📌 9. Rodar um container mapeando porta
 ```bash
 docker run -d -p 8080:80 <nome-da-imagem>
