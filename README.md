@@ -17,7 +17,7 @@ Os responsáveis pelo desenvolvimento do projeto são:
 - **Kaio Souza Oliveira Mayer**
 - [Portfolio](https://my-portfolio-devv.vercel.app/about)
 - **Mateus Rodrigues Costa**
-- [Portfolio]((https://portifolio-teal-gamma.vercel.app/about))
+- [Portfolio](https://portifolio-git-main-mateus-projects-b5111fc2.vercel.app)
 ## 🛠️ Tecnologias Utilizadas
 - Java 21
 - Spring Boot 3.5.4
