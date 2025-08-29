@@ -10,10 +10,14 @@ O site contará com:
 - **Contato** – Ícones clicáveis e formulário funcional para envio de mensagens por e-mail.  
 
 Os responsáveis pelo desenvolvimento do projeto são:  
-- **Arthur Henrique Teixeira e Silva Bacelete**  
-- **Gabriel**  
-- **Kaio**  
-- **Mateus Rodrigues Costa**  
+- **Arthur Henrique Teixeira e Silva Bacelete**
+- [Portfolio](https://link-que-sera-aberto.com)
+- **Gabriel Nogueira Vieira Resende**
+- [Portfolio](https://link-que-sera-aberto.com)
+- **Kaio Souza Oliveira Mayer**
+- [Portfolio]([https://link-que-sera-aberto.com](https://my-portfolio-devv.vercel.app/about))
+- **Mateus Rodrigues Costa**
+- [Portfolio]([https://link-que-sera-aberto.com](https://portifolio-teal-gamma.vercel.app/about))
 ## 🛠️ Tecnologias Utilizadas
 - Java 21
 - Spring Boot 3.5.4
