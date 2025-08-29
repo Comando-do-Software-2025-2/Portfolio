@@ -11,7 +11,7 @@ O site contará com:
 
 Os responsáveis pelo desenvolvimento do projeto são:  
 - **Arthur Henrique Teixeira e Silva Bacelete**
-- [Portfolio](https://link-que-sera-aberto.com)
+- [Portfolio](https://portfolio-new-git-main-baceletes-projects.vercel.app)
 - **Gabriel Nogueira Vieira Resende**
 - [Portfolio](https://portfolio-blond-kappa-81.vercel.app)
 - **Kaio Souza Oliveira Mayer**
