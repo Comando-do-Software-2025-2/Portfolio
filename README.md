@@ -15,7 +15,7 @@ Os responsáveis pelo desenvolvimento do projeto são:
 - **Gabriel Nogueira Vieira Resende**
 - [Portfolio](https://link-que-sera-aberto.com)
 - **Kaio Souza Oliveira Mayer**
-- [Portfolio](https://my-portfolio-devv.vercel.app/about)
+- [Portfolio](https://my-portfolio-dev-xi.vercel.app/about)
 - **Mateus Rodrigues Costa**
 - [Portfolio](https://portifolio-git-main-mateus-projects-b5111fc2.vercel.app)
 ## 🛠️ Tecnologias Utilizadas
