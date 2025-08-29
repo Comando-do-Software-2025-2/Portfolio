@@ -25,8 +25,6 @@ Os responsáveis pelo desenvolvimento do projeto são:
 - Figma
 - GitHub e Git
 - Docker
-## 🚀 Como Executar o Projeto
-## 🌳 Estrutura Inicial do Site
 ## 🎨 Protótipos e Telas
 ![Protótipo Home](Img/Home.png)  
 ![Protótipo Experience](Img/Experience.png)  
