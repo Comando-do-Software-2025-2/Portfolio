@@ -15,9 +15,9 @@ Os responsáveis pelo desenvolvimento do projeto são:
 - **Gabriel Nogueira Vieira Resende**
 - [Portfolio](https://link-que-sera-aberto.com)
 - **Kaio Souza Oliveira Mayer**
-- [Portfolio]([https://link-que-sera-aberto.com](https://my-portfolio-devv.vercel.app/about))
+- [Portfolio](https://my-portfolio-devv.vercel.app/about)
 - **Mateus Rodrigues Costa**
-- [Portfolio]([https://link-que-sera-aberto.com](https://portifolio-teal-gamma.vercel.app/about))
+- [Portfolio]((https://portifolio-teal-gamma.vercel.app/about))
 ## 🛠️ Tecnologias Utilizadas
 - Java 21
 - Spring Boot 3.5.4
